@@ -1,0 +1,15 @@
+.sifirla {
+    background-color: red;
+    color: white;
+    height: 50px;
+    margin-top: 20px;
+    font-size: 30px;
+    margin: 10px auto;
+    display: block;
+    width: 70%;
+}
+
+.malzemeler table {
+    width: 70%;
+    background-color: #c15711;
+}
